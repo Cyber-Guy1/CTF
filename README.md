@@ -19,4 +19,4 @@ _____________
 
 # Copy Right
 
-`You Can Develope This CTF's And Publish Your Developed Version But With The Source Mentioned Which Is This Repository`
+`You Can Develop This CTF's And Publish Your Developed Version But With The Source Mentioned Which Is This Repository`
