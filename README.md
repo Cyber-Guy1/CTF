@@ -11,3 +11,12 @@ _____________
 * You Can Take The Source Code And Develop It And Publish It As A New CTF (Based On This CTF)
 * Take An Idea In How To Build An A CTF
 
+## Can I Publish It After Editing On It ?
+* Sure You Can Publish It After Doing Your Edits And Development But With The Source Mentioned
+
+
+_____________
+
+# Copy Right
+
+`You Can Develope This CTF's And Publish Your Developed Version But With The Source Mentioned Which Is This Repository`
