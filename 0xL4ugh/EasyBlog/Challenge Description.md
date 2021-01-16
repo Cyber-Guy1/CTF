@@ -11,7 +11,7 @@ _______________
 
 * Challenge Author -> Momen Ali
 
-* Expected Time To Solve -> 1 Hour
+* Expected Time To Solve -> 30 Minutes
 
 * Flag -> 0xL4ugh{N0_Syst3m_1s_S@f3_3v3n_Y0u}
 _______________
