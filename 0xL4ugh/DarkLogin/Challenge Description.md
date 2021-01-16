@@ -23,7 +23,7 @@ _______________
 * JS
 * HTML
 
-#### Web Techniques :-
+#### Technologies :-
 
 * Ajax
 _______________
